@@ -1,0 +1,4 @@
+#Isso é um comentário nesse arquivo!
+# O asterisco é utilizado como um carectére curinga.
+# A barra é usada para ignorar caminhos relativos do arquivo .gitignore
+# O # é usado para adicionar comentários no arquivo
