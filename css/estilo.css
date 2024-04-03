@@ -17,3 +17,9 @@ nav a{
 section{
     line-height: 1.5em;
 }
+
+form{
+    border: solid 1px;
+    border-color: gray;
+    padding: 10px;
+}
