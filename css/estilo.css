@@ -13,3 +13,7 @@ nav a{
 .container{
     margin: 20px;
 }
+
+section{
+    line-height: 1.5em;
+}
